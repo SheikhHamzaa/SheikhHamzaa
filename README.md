@@ -16,7 +16,7 @@
  <h3 align="center">Passionate about mastering the art of full-stack development and exploring Cloud Applied Generative AI. Join me in shaping the digital future! 💻🚀
 </h3
 
-**<h3 align="left">Skills</h3>**
+**<h3 align="center">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" height="32" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="32" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/fastapi/009739" height="32" alt="FastAPI" style="margin-right: 4px"></div>
 
