@@ -9,9 +9,10 @@
     </summary>
   </ul>
 </div>
-
+<div style="display: flex; justify-content: center;">
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/sheikhHamzaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sheikh-hamza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+</div>
 
  <h3 align="center">Passionate about mastering the art of full-stack development and exploring Cloud Applied Generative AI. Join me in shaping the digital future! 💻🚀
 </h3
